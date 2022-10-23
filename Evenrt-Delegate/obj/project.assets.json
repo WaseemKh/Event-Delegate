@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Waseem\\Articles\\Evenrt-Delegate\\Evenrt-Delegate\\Evenrt-Delegate.csproj",
-      "projectName": "Evenrt-Delegate",
-      "projectPath": "C:\\Waseem\\Articles\\Evenrt-Delegate\\Evenrt-Delegate\\Evenrt-Delegate.csproj",
+      "projectUniqueName": "C:\\Waseem\\Articles\\Evenrt-Delegate\\Evenrt-Delegate\\Event-Delegate.csproj",
+      "projectName": "Event-Delegate",
+      "projectPath": "C:\\Waseem\\Articles\\Evenrt-Delegate\\Evenrt-Delegate\\Event-Delegate.csproj",
       "packagesPath": "C:\\Users\\anwar\\.nuget\\packages\\",
       "outputPath": "C:\\Waseem\\Articles\\Evenrt-Delegate\\Evenrt-Delegate\\obj\\",
       "projectStyle": "PackageReference",

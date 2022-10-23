@@ -1,0 +1,15 @@
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\obj\Debug\net6.0\Evenrt-Delegate.csproj.AssemblyReference.cache
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\obj\Debug\net6.0\Evenrt-Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\obj\Debug\net6.0\Evenrt-Delegate.AssemblyInfoInputs.cache
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\obj\Debug\net6.0\Evenrt-Delegate.AssemblyInfo.cs
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\obj\Debug\net6.0\Evenrt-Delegate.csproj.CoreCompileInputs.cache
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\bin\Debug\net6.0\Evenrt-Delegate.exe
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\bin\Debug\net6.0\Evenrt-Delegate.deps.json
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\bin\Debug\net6.0\Evenrt-Delegate.runtimeconfig.json
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\bin\Debug\net6.0\Evenrt-Delegate.dll
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\bin\Debug\net6.0\Evenrt-Delegate.pdb
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\obj\Debug\net6.0\Evenrt-Delegate.dll
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\obj\Debug\net6.0\refint\Evenrt-Delegate.dll
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\obj\Debug\net6.0\Evenrt-Delegate.pdb
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\obj\Debug\net6.0\Evenrt-Delegate.genruntimeconfig.cache
+C:\Waseem\Articles\Evenrt-Delegate\Evenrt-Delegate\obj\Debug\net6.0\ref\Evenrt-Delegate.dll
